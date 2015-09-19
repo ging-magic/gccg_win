@@ -1,0 +1,138 @@
+GCCG v0.9.8.1 Generic CCG Client (Windows 32bit Release build by ging  2015-09-19 (5fe64bfbe6b444e7ea8c073d4af83078))
+(c) 2001-2009 Tommi Ronkainen
+Security manager: allow read file: ./decks/*
+Security manager: allow read file: ./graphics/*
+Security manager: allow read file: ./sounds/*
+Security manager: allow execute: ./scripts/*
+Security manager: allow read file: ./scripts/*
+Security manager: allow read file: C:/.gccg/*
+Security manager: allow execute: C:/.gccg/init*
+Security manager: allow write file: ./vardump
+Security manager: allow open dir: ./scripts
+Security manager: allow open dir: ./scripts/global
+Loading game description ./xml/mtg.xml
+Security manager: allow read file: ./../mtg/graphics/Mtg/*
+Security manager: allow read file: ./../mtg/graphics/*
+Security manager: allow open dir: ./scripts/Mtg
+Security manager: allow open dir: ./decks/Mtg
+Security manager: allow open dir: ./decks/Mtg/*
+Security manager: allow open dir: C:/.gccg/Mtg/import
+Security manager: allow open dir: C:/.gccg/Mtg/import/*
+Security manager: allow open dir: C:/.gccg/Mtg/export
+Security manager: allow open dir: C:/.gccg/Mtg/export/*
+Security manager: allow write file: C:/.gccg/Mtg/*
+Security manager: allow connect: */0
+Loading ./xml/Mtg/mtg_basecards.xml
+Loading ./xml/Mtg/pm.xml
+Loading ./xml/Mtg/be.xml
+Loading ./xml/Mtg/an.xml
+Loading ./xml/Mtg/aq.xml
+Loading ./xml/Mtg/rv.xml
+Loading ./xml/Mtg/lg.xml
+Loading ./xml/Mtg/dk.xml
+Loading ./xml/Mtg/fe.xml
+Loading ./xml/Mtg/4th.xml
+Loading ./xml/Mtg/ia.xml
+Loading ./xml/Mtg/hl.xml
+Loading ./xml/Mtg/al.xml
+Loading ./xml/Mtg/mi.xml
+Loading ./xml/Mtg/vi.xml
+Loading ./xml/Mtg/5th.xml
+Loading ./xml/Mtg/wl.xml
+Loading ./xml/Mtg/p1.xml
+Loading ./xml/Mtg/te.xml
+Loading ./xml/Mtg/sh.xml
+Loading ./xml/Mtg/ex.xml
+Loading ./xml/Mtg/p2.xml
+Loading ./xml/Mtg/ug.xml
+Loading ./xml/Mtg/us.xml
+Loading ./xml/Mtg/ul.xml
+Loading ./xml/Mtg/6th.xml
+Loading ./xml/Mtg/p3.xml
+Loading ./xml/Mtg/ud.xml
+Loading ./xml/Mtg/s1.xml
+Loading ./xml/Mtg/mm.xml
+Loading ./xml/Mtg/ne.xml
+Loading ./xml/Mtg/py.xml
+Loading ./xml/Mtg/in.xml
+Loading ./xml/Mtg/ps.xml
+Loading ./xml/Mtg/7th.xml
+Loading ./xml/Mtg/ap.xml
+Loading ./xml/Mtg/od.xml
+Loading ./xml/Mtg/to.xml
+Loading ./xml/Mtg/jd.xml
+Loading ./xml/Mtg/on.xml
+Loading ./xml/Mtg/le.xml
+Loading ./xml/Mtg/sc.xml
+Loading ./xml/Mtg/8th.xml
+Loading ./xml/Mtg/mr.xml
+Loading ./xml/Mtg/ds.xml
+Loading ./xml/Mtg/fd.xml
+Loading ./xml/Mtg/ck.xml
+Loading ./xml/Mtg/uh.xml
+Loading ./xml/Mtg/bk.xml
+Loading ./xml/Mtg/sk.xml
+Loading ./xml/Mtg/9th.xml
+Loading ./xml/Mtg/ra.xml
+Loading ./xml/Mtg/gp.xml
+Loading ./xml/Mtg/di.xml
+Loading ./xml/Mtg/cs.xml
+Loading ./xml/Mtg/ts.xml
+Loading ./xml/Mtg/pc.xml
+Loading ./xml/Mtg/fs.xml
+Loading ./xml/Mtg/xe.xml
+Loading ./xml/Mtg/lrw.xml
+Loading ./xml/Mtg/mor.xml
+Loading ./xml/Mtg/sm.xml
+Loading ./xml/Mtg/eve.xml
+Loading ./xml/Mtg/ala.xml
+Loading ./xml/Mtg/cfx.xml
+Loading ./xml/Mtg/are.xml
+Loading ./xml/Mtg/m10.xml
+Loading ./xml/Mtg/zdk.xml
+Loading ./xml/Mtg/wwk.xml
+Loading ./xml/Mtg/roe.xml
+Loading ./xml/Mtg/m11.xml
+Loading ./xml/Mtg/som.xml
+Loading ./xml/Mtg/mbs.xml
+Loading ./xml/Mtg/nph.xml
+Loading ./xml/Mtg/com.xml
+Loading ./xml/Mtg/m12.xml
+Loading ./xml/Mtg/isd.xml
+Loading ./xml/Mtg/dka.xml
+Loading ./xml/Mtg/avr.xml
+Loading ./xml/Mtg/pc2.xml
+Loading ./xml/Mtg/m13.xml
+Loading ./xml/Mtg/rtr.xml
+Loading ./xml/Mtg/gtc.xml
+Loading ./xml/Mtg/dgm.xml
+Loading ./xml/Mtg/mod.xml
+Loading ./xml/Mtg/m14.xml
+Loading ./xml/Mtg/ths.xml
+Loading ./xml/Mtg/c13.xml
+Loading ./xml/Mtg/bng.xml
+Loading ./xml/Mtg/jou.xml
+Loading ./xml/Mtg/vma.xml
+Loading ./xml/Mtg/cns.xml
+Loading ./xml/Mtg/m15.xml
+Loading ./xml/Mtg/ktk.xml
+Loading ./xml/Mtg/c14.xml
+Loading ./xml/Mtg/frf.xml
+Loading ./xml/Mtg/dtk.xml
+Loading ./xml/Mtg/tpr.xml
+Loading ./xml/Mtg/mm2.xml
+Loading ./xml/Mtg/ori.xml
+Loading ./scripts/client.triggers
+Calling "init" ""
+Initializing graphics driver: resolution 1024x600
+Graphics initialized:
+  Driver = windib
+  Fullscreen = No
+  Physical resolution = 1024x600
+  HW Available = No
+  HW Video memory = 0MB
+  HW Surface = No
+  BPP = 32
+Calling "init" "client"
+Calling "init" "game"
+Calling "exit" ""

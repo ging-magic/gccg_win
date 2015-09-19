@@ -1,0 +1,168 @@
+libpng warning: iCCP: too many profiles
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+
+=================================================================
+ERROR #1
+
+
+Code caused exception:
+{MouseMove("");}
+
+LangErr exception at Parser<Application>::EvalAtom(string&): Index '-1' out of range applied on ("{reset}{hr}","{reset}{sz20}{center}Welcome to Gccg/Magic the Gathering","{reset}{center}{sz16}(C) 2001-2012 Tommi Ronkainen","{reset}{sz20}{center}Press {orange}F1{white} for help or {orange}right click{white} for menu.","{reset}{hr}","{reset}Deck 'Deckt2' selected.","Connecting to gccg.bornano.fr port 29100")
+
+Stacktrace:
+[ 0. ] MouseMove("")
+
+=================================================================
+ERROR #2
+
+
+Code caused exception:
+{MouseMove("");}
+
+LangErr exception at Parser<Application>::EvalAtom(string&): Index '-1' out of range applied on ("{reset}{hr}","{reset}{sz20}{center}Welcome to Gccg/Magic the Gathering","{reset}{center}{sz16}(C) 2001-2012 Tommi Ronkainen","{reset}{sz20}{center}Press {orange}F1{white} for help or {orange}right click{white} for menu.","{reset}{hr}","{reset}Deck 'Deckt2' selected.","Connecting to gccg.bornano.fr port 29100")
+
+Stacktrace:
+[ 0. ] MouseMove("")
+
+=================================================================
+ERROR #3
+
+
+Code caused exception:
+{MouseMove("");}
+
+LangErr exception at Parser<Application>::EvalAtom(string&): Index '-1' out of range applied on ("{reset}{hr}","{reset}{sz20}{center}Welcome to Gccg/Magic the Gathering","{reset}{center}{sz16}(C) 2001-2012 Tommi Ronkainen","{reset}{sz20}{center}Press {orange}F1{white} for help or {orange}right click{white} for menu.","{reset}{hr}","{reset}Deck 'Deckt2' selected.","Connecting to gccg.bornano.fr port 29100")
+
+Stacktrace:
+[ 0. ] MouseMove("")
+
+=================================================================
+ERROR #4
+
+
+Code caused exception:
+{MouseMove("");}
+
+LangErr exception at Parser<Application>::EvalAtom(string&): Index '-1' out of range applied on ("{reset}{hr}","{reset}{sz20}{center}Welcome to Gccg/Magic the Gathering","{reset}{center}{sz16}(C) 2001-2012 Tommi Ronkainen","{reset}{sz20}{center}Press {orange}F1{white} for help or {orange}right click{white} for menu.","{reset}{hr}","{reset}Deck 'Deckt2' selected.","Connecting to gccg.bornano.fr port 29100")
+
+Stacktrace:
+[ 0. ] MouseMove("")
+
+=================================================================
+ERROR #5
+
+
+Code caused exception:
+{MouseMove("");}
+
+LangErr exception at Parser<Application>::EvalAtom(string&): Index '-1' out of range applied on ("{reset}{hr}","{reset}{sz20}{center}Welcome to Gccg/Magic the Gathering","{reset}{center}{sz16}(C) 2001-2012 Tommi Ronkainen","{reset}{sz20}{center}Press {orange}F1{white} for help or {orange}right click{white} for menu.","{reset}{hr}","{reset}Deck 'Deckt2' selected.","Connecting to gccg.bornano.fr port 29100")
+
+Stacktrace:
+[ 0. ] MouseMove("")
+
+=================================================================
+ERROR #6
+
+
+Code caused exception:
+{MouseMove("");}
+
+LangErr exception at Parser<Application>::EvalAtom(string&): Index '-1' out of range applied on ("{reset}{hr}","{reset}{sz20}{center}Welcome to Gccg/Magic the Gathering","{reset}{center}{sz16}(C) 2001-2012 Tommi Ronkainen","{reset}{sz20}{center}Press {orange}F1{white} for help or {orange}right click{white} for menu.","{reset}{hr}","{reset}Deck 'Deckt2' selected.","Connecting to gccg.bornano.fr port 29100")
+
+Stacktrace:
+[ 0. ] MouseMove("")
+
+=================================================================
+ERROR #7
+
+
+Code caused exception:
+{MouseMove("");}
+
+LangErr exception at Parser<Application>::EvalAtom(string&): Index '-1' out of range applied on ("{reset}{hr}","{reset}{sz20}{center}Welcome to Gccg/Magic the Gathering","{reset}{center}{sz16}(C) 2001-2012 Tommi Ronkainen","{reset}{sz20}{center}Press {orange}F1{white} for help or {orange}right click{white} for menu.","{reset}{hr}","{reset}Deck 'Deckt2' selected.","Connecting to gccg.bornano.fr port 29100")
+
+Stacktrace:
+[ 0. ] MouseMove("")
+
+=================================================================
+ERROR #8
+
+
+Code caused exception:
+{MainLoop();}
+
+LangErr exception at ReadBinary: Cannot read element type
+
+Stacktrace:
+[ 0. ] binary_load("book.cache")
+[ 1. ] call(("binary_load","book.cache"))
+[ 2. ] LoadBookState(NULL)
+[ 3. ] StartChatMode(NULL)
+[ 4. ] call(("StartChatMode",NULL))
+[ 5. ] SetMode("chat")
+[ 6. ] call(("SetMode","chat"))
+[ 7. ] Receive(("SetMode","chat"))
+[ 8. ] MainLoop(NULL)
+libpng warning: iCCP: too many profiles
+
+=================================================================
+ERROR #9
+
+
+Code caused exception:
+{if(init_ok)SaveAll();}
+
+LangErr exception at ReadBinary: Cannot read element type
+
+Stacktrace:
+[ 0. ] binary_load("book.cache")
+[ 1. ] call(("binary_load","book.cache"))
+[ 2. ] SaveBookState(NULL)
+[ 3. ] SaveAll(NULL)
+[ 4. ] quit(NULL)
+[ 5. ] CommandQuit((,))
+[ 6. ] call(("CommandQuit",(,)))
+[ 7. ] SlashCommand("/quit")
+[ 8. ] MenuClick(NULL)
